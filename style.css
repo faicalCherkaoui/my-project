@@ -1,0 +1,33 @@
+
+.logo{
+    width: 100px;
+    height: 100px;
+}
+.image1{
+    width: 90%;
+}
+.koora{
+    color:red;
+}
+.fai1{
+    width: 90px;
+    border-radius: 50%;
+    height: 100px;
+}
+.r1{
+    width: 30%;
+    background-color: white;
+    padding: 1%;
+    border-radius: 50%;
+    
+}
+.pool{
+    width: 220px;
+    height: 160px;
+}
+.koora2{
+    width: 50%;
+    position:absolute;
+    right: 30px;
+   
+}
