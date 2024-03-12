@@ -1,13 +1,16 @@
-
+:root {
+    --color-princ : red;
+    --width-screen : 90%;
+}
 .logo{
     width: 100px;
     height: 100px;
 }
 .image1{
-    width: 90%;
+    width: var(--width-screen);
 }
 .koora{
-    color:red;
+    color: var(--color-princ);
 }
 .fai1{
     width: 90px;
@@ -22,12 +25,17 @@
     
 }
 .pool{
-    width: 220px;
-    height: 160px;
+    width: var(--width-screen);
+    height: 250px;
 }
 .koora2{
     width: 50%;
     position:absolute;
     right: 30px;
    
+}
+
+.promos {
+    top: 20px; 
+    left: 80px;
 }
